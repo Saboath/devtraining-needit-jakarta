@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_properties_category">
+    <sys_properties_category action="INSERT_OR_UPDATE">
+        <name>NeedIt Properties</name>
+        <sys_class_name>sys_properties_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-09-27 06:22:33</sys_created_on>
+        <sys_id>267707044f2d0300fcb48c318110c7ff</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>NeedIt Properties</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_properties_category_267707044f2d0300fcb48c318110c7ff</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-09-27 06:23:03</sys_updated_on>
+        <title><![CDATA[<p><img style="align: baseline;" title="" src="sys_attachment.do?sys_id&#61;23f747c04f2d0300fcb48c318110c7ae" alt="" align="baseline" border="" hspace="" vspace="" /></p>
+<p>This is the <strong>text</strong> of my <span style="text-decoration: underline;">choice</span>.</p>]]></title>
+    </sys_properties_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=267707044f2d0300fcb48c318110c7ff"/>
+</record_update>
